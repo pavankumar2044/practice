@@ -1,1 +1,2 @@
 this is to check stash command
+now i am editing the sixth file
